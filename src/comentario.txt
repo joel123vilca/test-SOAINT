@@ -1,0 +1,5 @@
+1. Se uso react hook para que la funcion pueda mantener una variable durante la renderización.
+2. Se uso UseState es un hook para crear variables de estado.
+3. Se uso useEffect para realizar operaciones cuando se renderice.
+4. se uso async await para resolver las promesas o llamadas a la API y ayuda a que el codigo sea mas legible.
+5. se uso destructuración para un codigo mas legible y no repitir algunas variables 
